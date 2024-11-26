@@ -9,7 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.12"
+    "aws-s3": "^2.0.5",
+    "axios": "^0.19.2",
+    "base64-blob": "^1.4.1",
+    "vue": "^3.5.12",
+    "luxon": "^1.25.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.46",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^3.6.2",
+    "xlsx": "^0.16.9"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
